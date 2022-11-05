@@ -1,0 +1,1 @@
+SELECT LEFT('Hello World', 5);
